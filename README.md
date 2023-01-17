@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+Project idea was to create web-based application that can connect to Polar manufactured wrist sensor capable of measuring persons heart-rate and other data needed to create an ecg curve, fetch this data from the sensor using bluetooth low energy technology and to show collected data in browser in real time.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The application is built to work only with certain devices (Polar H10 and Polar Verity Sense wrist sensors) 
 
 ## Getting Started
 
@@ -35,30 +35,12 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+Daniel Leinonen
+Duong Pham
+Konsta Alajärvi
+Tiia Viitanen
+Vincent Menke
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
 
